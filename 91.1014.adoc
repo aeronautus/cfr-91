@@ -1,0 +1,13 @@
+# § 91.1014 - Issuing or denying management specifications.
+
+[loweralpha]
+. A person applying to the Administrator for management specifications under this subpart must submit an application—
+[arabic]
+.. In a form and manner prescribed by the Administrator; and
+.. Containing any information the Administrator requires the applicant to submit.
+. Management specifications will be issued to the program manager on behalf of the fractional owners if, after investigation, the Administrator finds that the applicant:
+[arabic]
+.. Meets the applicable requirements of this subpart; and
+.. Is properly and adequately equipped in accordance with the requirements of this chapter and is able to conduct safe operations under appropriate provisions of part 91 of this chapter and management specifications issued under this subpart.
+. An application for management specifications will be denied if the Administrator finds that the applicant is not properly or adequately equipped or is not able to conduct safe operations under this part.
+

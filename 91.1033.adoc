@@ -1,0 +1,24 @@
+# § 91.1033 - Operating information required.
+
+[loweralpha]
+. Each program manager must, for all program operations, provide the following materials, in current and appropriate form, accessible to the pilot at the pilot station, and the pilot must use them—
+[arabic]
+.. A cockpit checklist;
+.. For multiengine aircraft or for aircraft with retractable landing gear, an emergency cockpit checklist containing the procedures required by paragraph (c) of this section, as appropriate;
+.. At least one set of pertinent aeronautical charts; and
+.. For IFR operations, at least one set of pertinent navigational en route, terminal area, and instrument approach procedure charts.
+. Each cockpit checklist required by paragraph (a)(1) of this section must contain the following procedures:
+[arabic]
+.. Before starting engines;
+.. Before takeoff;
+.. Cruise;
+.. Before landing;
+.. After landing; and
+.. Stopping engines.
+. Each emergency cockpit checklist required by paragraph (a)(2) of this section must contain the following procedures, as appropriate:
+[arabic]
+.. Emergency operation of fuel, hydraulic, electrical, and mechanical systems.
+.. Emergency operation of instruments and controls.
+.. Engine inoperative procedures.
+.. Any other emergency procedures necessary for safety.
+

@@ -1,0 +1,17 @@
+# § 91.867 - Phased compliance for new entrants.
+
+[loweralpha]
+. New entrant U.S. air carriers.
+[arabic]
+.. A new entrant initiating operations under part 121 of this chapter on or before December 31, 1994, may initiate service without regard to the percentage of its fleet composed of Stage 3 airplanes.
+.. After December 31, 1994, at least 25 percent of the fleet of a new entrant must comply with Stage 3 noise levels.
+.. After December 31, 1996, at least 50 percent of the fleet of a new entrant must comply with Stage 3 noise levels.
+.. After December 31, 1998, at least 75 percent of the fleet of a new entrant must comply with Stage 3 noise levels.
+. New entrant foreign air carriers.
+[arabic]
+.. A new entrant foreign air carrier initiating part 129 operations on or before December 31, 1994, may initiate service without regard to the percentage of its fleet composed of Stage 3 airplanes.
+.. After December 31, 1994, at least 25 percent of the fleet on U.S. operations specifications of a new entrant foreign air carrier must comply with Stage 3 noise levels.
+.. After December 31, 1996, at least 50 percent of the fleet on U.S. operations specifications of a new entrant foreign air carrier must comply with Stage 3 noise levels.
+.. After December 31, 1998, at least 75 percent of the fleet on U.S. operations specifications of a new entrant foreign air carrier must comply with Stage 3 noise levels.
+. Calculations resulting in fractions may be rounded to permit the continued operation of the next whole number of Stage 2 airplanes.
+

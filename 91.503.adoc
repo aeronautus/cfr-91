@@ -1,0 +1,27 @@
+# § 91.503 - Flying equipment and operating information.
+
+[loweralpha]
+. The pilot in command of an airplane shall ensure that the following flying equipment and aeronautical charts and data, in current and appropriate form, are accessible for each flight at the pilot station of the airplane:
+[arabic]
+.. A flashlight having at least two size “D” cells, or the equivalent, that is in good working order.
+.. A cockpit checklist containing the procedures required by paragraph (b) of this section.
+.. Pertinent aeronautical charts.
+.. For IFR, VFR over-the-top, or night operations, each pertinent navigational en route, terminal area, and approach and letdown chart.
+.. In the case of multiengine airplanes, one-engine inoperative climb performance data.
+. Each cockpit checklist must contain the following procedures and shall be used by the flight crewmembers when operating the airplane:
+[arabic]
+.. Before starting engines.
+.. Before takeoff.
+.. Cruise.
+.. Before landing.
+.. After landing.
+.. Stopping engines.
+.. Emergencies.
+. Each emergency cockpit checklist procedure required by paragraph (b)(7) of this section must contain the following procedures, as appropriate:
+[arabic]
+.. Emergency operation of fuel, hydraulic, electrical, and mechanical systems.
+.. Emergency operation of instruments and controls.
+.. Engine inoperative procedures.
+.. Any other procedures necessary for safety.
+. The equipment, charts, and data prescribed in this section shall be used by the pilot in command and other members of the flight crew, when pertinent.
+

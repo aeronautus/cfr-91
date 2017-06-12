@@ -1,0 +1,42 @@
+# § 91.1101 - Pilots: Initial, transition, and upgrade ground training.
+
+Initial, transition, and upgrade ground training for pilots must include instruction in at least the following, as applicable to their duties:
+
+[loweralpha]
+. General subjects—
+[arabic]
+.. The program manager's flight locating procedures;
+.. Principles and methods for determining weight and balance, and runway limitations for takeoff and landing;
+.. Enough meteorology to ensure a practical knowledge of weather phenomena, including the principles of frontal systems, icing, fog, thunderstorms, windshear and, if appropriate, high altitude weather situations;
+.. Air traffic control systems, procedures, and phraseology;
+.. Navigation and the use of navigational aids, including instrument approach procedures;
+.. Normal and emergency communication procedures;
+.. Visual cues before and during descent below Decision Altitude or MDA; and
+.. Other instructions necessary to ensure the pilot's competence.
+. For each aircraft type—
+[arabic]
+.. A general description;
+.. Performance characteristics;
+.. Engines and propellers;
+.. Major components;
+.. Major aircraft systems (that is, flight controls, electrical, and hydraulic), other systems, as appropriate, principles of normal, abnormal, and emergency operations, appropriate procedures and limitations;
+.. Knowledge and procedures for—
+[lowerroman]
+... Recognizing and avoiding severe weather situations;
+... Escaping from severe weather situations, in case of inadvertent encounters, including low-altitude windshear (except that rotorcraft pilots are not required to be trained in escaping from low-altitude windshear);
+... Operating in or near thunderstorms (including best penetration altitudes), turbulent air (including clear air turbulence), inflight icing, hail, and other potentially hazardous meteorological conditions; and
+... Operating airplanes during ground icing conditions, (that is, any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the aircraft), if the program manager expects to authorize takeoffs in ground icing conditions, including:
+[upperalpha]
+.... The use of holdover times when using deicing/anti-icing fluids;
+.... Airplane deicing/anti-icing procedures, including inspection and check procedures and responsibilities;
+.... Communications;
+.... Airplane surface contamination (that is, adherence of frost, ice, or snow) and critical area identification, and knowledge of how contamination adversely affects airplane performance and flight characteristics;
+.... Types and characteristics of deicing/anti-icing fluids, if used by the program manager;
+.... Cold weather preflight inspection procedures;
+.... Techniques for recognizing contamination on the airplane;
+.. Operating limitations;
+.. Fuel consumption and cruise control;
+.. Flight planning;
+.. Each normal and emergency procedure; and
+.. The approved Aircraft Flight Manual or equivalent.
+

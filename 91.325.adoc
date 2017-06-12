@@ -1,0 +1,9 @@
+# § 91.325 - Primary category aircraft: Operating limitations.
+
+[loweralpha]
+. No person may operate a primary category aircraft carrying persons or property for compensation or hire.
+. No person may operate a primary category aircraft that is maintained by the pilot-owner under an approved special inspection and maintenance program except—
+[arabic]
+.. The pilot-owner; or
+.. A designee of the pilot-owner, provided that the pilot-owner does not receive compensation for the use of the aircraft.
+

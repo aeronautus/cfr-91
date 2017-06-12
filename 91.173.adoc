@@ -1,0 +1,8 @@
+# § 91.173 - ATC clearance and flight plan required.
+
+No person may operate an aircraft in controlled airspace under IFR unless that person has—
+
+[loweralpha]
+. Filed an IFR flight plan; and
+. Received an appropriate ATC clearance.
+
