@@ -6,6 +6,5 @@
 [arabic]
 .. To the extent necessary to accomplish the work activity directly associated with the purpose for which it is designed;
 .. To provide flight crewmember training in the special purpose operation for which the airplane is designed; and
-              
 .. To conduct “nondispensing aerial work operations” in accordance with the requirements under § 137.29(c) of this chapter.
 

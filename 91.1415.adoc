@@ -17,7 +17,6 @@
 .. An unwanted landing gear extension or retraction or opening or closing of landing gear doors during flight;
 .. Brake system components that result in loss of brake actuating force when the aircraft is in motion on the ground;
 .. Aircraft structure that requires major repair;
-                
 .. Cracks, permanent deformation, or corrosion of aircraft structures, if more than the maximum acceptable to the manufacturer or the FAA; and
 .. Aircraft components or systems that result in taking emergency actions during flight (except action to shut down an engine).
 . For the purpose of this section, *during flight* means the period from the moment the aircraft leaves the surface of the earth on takeoff until it touches down on landing.

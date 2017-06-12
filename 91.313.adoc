@@ -6,7 +6,6 @@
 .. For other than the special purpose for which it is certificated; or
 .. In an operation other than one necessary to accomplish the work activity directly associated with that special purpose.
 . For the purpose of paragraph (a) of this section, operating a restricted category civil aircraft to provide flight crewmember training in a special purpose operation for which the aircraft is certificated is considered to be an operation for that special purpose.
-              
 . No person may operate a restricted category civil aircraft carrying persons or property for compensation or hire. For the purposes of this paragraph, a special purpose operation involving the carriage of persons or material necessary to accomplish that operation, such as crop dusting, seeding, spraying, and banner towing (including the carrying of required persons or material to the location of that operation), and operation for the purpose of providing flight crewmember training in a special purpose operation, are not considered to be the carriage of persons or property for compensation or hire.
 . No person may be carried on a restricted category civil aircraft unless that person—
 [arabic]

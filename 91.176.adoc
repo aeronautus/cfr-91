@@ -63,7 +63,6 @@
 .. *Operations.*
 [lowerroman]
 ... The pilot conducting the EFVS operation may not use circling minimums.
-                
 ... Each required pilot flightcrew member must have adequate knowledge of, and familiarity with, the aircraft, the EFVS, and the procedures to be used.
 ... The aircraft must be equipped with, and the pilot flying must use, an operable EFVS that meets the equipment requirements of paragraph (b)(1) of this section.
 ... The aircraft must continuously be in a position from which a descent to a landing on the intended runway can be made at a normal rate of descent using normal maneuvers.
@@ -97,7 +96,6 @@
 .... The runway threshold;
 .... The lights or markings of the threshold;
 .... The runway touchdown zone landing surface; or
-                
 .... The lights or markings of the touchdown zone.
 .. Compliance Date. Beginning on March 13, 2018, a person conducting an EFVS operation to 100 feet above the touchdown zone elevation must comply with the requirements of paragraph (b) of this section.
 . *Public aircraft certification and training requirements.* A public aircraft operator, other than the U.S. military, may conduct an EFVS operation under paragraph (a) or (b) of this section only if:

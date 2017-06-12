@@ -16,7 +16,6 @@
 [lowerroman]
 ... The takeoff run, in the case of airplanes certificated after September 30, 1958, and before August 30, 1959; or
 ... The runway length, in the case of airplanes certificated after August 29, 1959.
-              
 . No person may take off a turbine-engine-powered transport category airplane certificated after August 29, 1959, unless, in addition to the requirements of paragraph (b) of this section—
 [arabic]
 .. The accelerate-stop distance is no greater than the length of the runway plus the length of the stopway (if present); and

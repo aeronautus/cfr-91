@@ -9,7 +9,6 @@
 . The requirements of paragraph (a) of this section do not apply—
 [arabic]
 .. To a lease or contract of conditional sale when—
-              
 [lowerroman]
 ... The party to whom the aircraft is furnished is a foreign air carrier or certificate holder under part 121, 125, 135, or 141 of this chapter, or
 ... The party furnishing the aircraft is a foreign air carrier or a person operating under part 121, 125, and 141 of this chapter, or a person operating under part 135 of this chapter having authority to engage in on-demand operations with large aircraft.

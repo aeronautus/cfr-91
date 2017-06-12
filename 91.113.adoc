@@ -11,7 +11,6 @@
 .. An airship has the right-of-way over a powered parachute, weight-shift-control aircraft, airplane, or rotorcraft.
 
 However, an aircraft towing or refueling other aircraft has the right-of-way over all other engine-driven aircraft.
-                
 
 (e) *Approaching head-on.* When aircraft are approaching each other head-on, or nearly so, each pilot of each aircraft shall alter course to the right.
 

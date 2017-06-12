@@ -5,7 +5,6 @@
 [arabic]
 .. It is carried in an approved cargo rack, bin, or compartment installed in the airplane;
 .. It is secured by means approved by the Administrator; or
-              
 .. It is carried in accordance with each of the following:
 [lowerroman]
 ... It is properly secured by a safety belt or other tiedown having enough strength to eliminate the possibility of shifting under all normally anticipated flight and ground conditions.

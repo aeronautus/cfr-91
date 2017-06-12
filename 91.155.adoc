@@ -11,7 +11,6 @@
 [arabic]
 .. Unless ground visibility at that airport is at least 3 statute miles; or
 .. If ground visibility is not reported at that airport, unless flight visibility during landing or takeoff, or while operating in the traffic pattern is at least 3 statute miles.
-                
 . For the purpose of this section, an aircraft operating at the base altitude of a Class E airspace area is considered to be within the airspace directly below that area.
 
 

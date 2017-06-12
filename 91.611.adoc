@@ -34,7 +34,6 @@
 [lowerroman]
 ... The landing gear extended;
 ... The critical engine inoperative and its propeller removed or in a configuration desired by the operator; and
-              
 ... The other engines operating at not more than maximum power established under paragraph (b)(3) of this section.
 .. The takeoff, flight and landing procedures, such as the approximate trim settings, method of power application, maximum power, and speed must be established.
 .. The performance must be determined at a maximum weight not greater than the weight that allows a rate of climb of at least 400 feet per minute in the en route configuration set forth in § 25.67(d) of this chapter in effect on January 31, 1977, at an altitude of 5,000 feet.
@@ -54,5 +53,4 @@
 ... The climb speed not less than the two-engine inoperative trim speed for the actual steady gradient of the final takeoff climb prescribed by paragraph (c)(4)(i) of this section.
 .. The airplane must be satisfactorily controllable in a climb with two critical engines inoperative. Climb performance may be shown by calculations based on, and equal in accuracy to, the results of testing.
 .. The performance must be determined using temperature accountability for takeoff distance and final takeoff climb computed in accordance with § 25.101 of this chapter.
-              
 

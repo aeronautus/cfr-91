@@ -6,6 +6,5 @@
 [arabic]
 .. The Administrator issues an immediately effective air traffic rule or regulation in response to that emergency condition; and
 .. The Administrator or the Associate Administrator for Air Traffic may utilize the NOTAM system to provide notification of the issuance of the rule or regulation.
-                
 . When a NOTAM has been issued under this section, no person may operate an aircraft, or other device governed by the regulation concerned, within the designated airspace except in accordance with the authorizations, terms, and conditions prescribed in the regulation covered by the NOTAM.
 

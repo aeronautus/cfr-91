@@ -20,7 +20,6 @@
 . MU-2B training programs must contain ground training and flight training sufficient to ensure pilot proficiency for the safe operation of MU-2B aircraft, including:
 [arabic]
 .. A ground training curriculum sufficient to ensure pilot knowledge of MU-2B aircraft, aircraft systems, and procedures, necessary for safe operation; and
-              
 .. Flight training curriculum including flight training maneuver profiles sufficient in number and detail to ensure pilot proficiency in all MU-2B operations for each MU-2B model in correlation with MU-2B limitations, procedures, aircraft performance, and MU-2B Cockpit Checklist procedures applicable to the MU-2B model being trained. A MU-2B training program must contain, at a minimum, the following flight training maneuver profiles applicable to the MU-2B model being trained:
 [lowerroman]
 ... Normal takeoff with 5- and 20- degrees flaps;

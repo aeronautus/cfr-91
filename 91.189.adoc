@@ -7,7 +7,6 @@
 .. Each flight crewmember has adequate knowledge of, and familiarity with, the aircraft and the procedures to be used; and
 .. The instrument panel in front of the pilot who is controlling the aircraft has appropriate instrumentation for the type of flight control guidance system that is being used.
 . Unless otherwise authorized by the Administrator, no person may operate a civil aircraft in a Category II or Category III operation unless each ground component required for that operation and the related airborne equipment is installed and operating.
-                
 . *Authorized DA/DH.* For the purpose of this section, when the approach procedure being used provides for and requires the use of a DA/DH, the authorized DA/DH is the highest of the following:
 [arabic]
 .. The DA/DH prescribed by the approach procedure.

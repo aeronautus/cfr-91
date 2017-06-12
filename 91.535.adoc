@@ -3,7 +3,6 @@
 [loweralpha]
 . No operator may move an aircraft on the surface, take off, or land when any food, beverage, or tableware furnished by the operator is located at any passenger seat.
 . No operator may move an aircraft on the surface, take off, or land unless each food and beverage tray and seat back tray table is secured in its stowed position.
-              
 . No operator may permit an aircraft to move on the surface, take off, or land unless each passenger serving cart is secured in its stowed position.
 . No operator may permit an aircraft to move on the surface, take off, or land unless each movie screen that extends into the aisle is stowed.
 . Each passenger shall comply with instructions given by a crewmember with regard to compliance with this section.

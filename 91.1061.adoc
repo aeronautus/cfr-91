@@ -2,7 +2,6 @@
 
 [loweralpha]
 . No program manager may assign any flight crewmember, and no flight crewmember may accept an assignment, for flight time as a member of an augmented crew if that crewmember's total flight time in all commercial flying will exceed—
-                
 [arabic]
 .. 500 hours in any calendar quarter;
 .. 800 hours in any two consecutive calendar quarters;

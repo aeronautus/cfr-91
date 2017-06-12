@@ -15,7 +15,6 @@
 [arabic]
 .. 50 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane in the preceding 24 months; or
 .. 500 hours of documented flight time manipulating the controls while serving as pilot in command of a Mitsubishi MU-2B series airplane.
-              
 . A person is required to complete *Recurrent training* within the preceding 12 months. Successful completion of Initial/transition or Requalification training within the preceding 12 months satisfies the requirement of Recurrent training. A person must successfully complete Initial/transition training or Requalification training before being eligible to receive Recurrent training.
 . Successful completion of Initial/transition training or Requalification training is a one-time requirement. A person may elect to retake Initial/transition training or Requalification training in lieu of Recurrent training.
 . A person is required to complete Differences training in accordance with an FAA approved MU-2B training program if that person operates more than one MU-2B model as specified in § 91.1707(c).

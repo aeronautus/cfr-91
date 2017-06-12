@@ -20,7 +20,6 @@
 .. Except for holders of a flight instructor certificate—
 [lowerroman]
 ... The fundamental principles of the teaching-learning process;
-                
 ... Teaching methods and procedures; and
 ... The instructor-student relationship.
 . The transition ground training for flight instructors must include the approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the type, class, or category aircraft to which the flight instructor is in transition.

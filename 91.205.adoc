@@ -64,7 +64,6 @@
 .. Gyroscopic pitch and bank indicator (artificial horizon);
 .. Generator or alternator of adequate capacity for the required instruments and equipment; and
 .. Radar altimeter.
-              
 [lowerroman]
 ... *Exclusions.* Paragraphs (f) and (g) of this section do not apply to operations conducted by a holder of a certificate issued under part 121 or part 135 of this chapter.
 

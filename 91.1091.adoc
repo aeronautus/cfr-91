@@ -7,7 +7,6 @@
 .. A flight instructor (simulator) is a person who is qualified to instruct in a flight simulator, in a flight training device, or in both, for a particular type, class, or category aircraft.
 .. Flight instructors (aircraft) and flight instructors (simulator) are those instructors who perform the functions described in § 91.1073(a)(4) and (c).
 . No program manager may use a person, nor may any person serve as a flight instructor (aircraft) in a training program established under this subpart unless, with respect to the type, class, or category aircraft involved, that person—
-                
 [arabic]
 .. Holds the pilot certificates and ratings required to serve as a pilot in command in operations under this subpart or part 121 or 135 of this chapter;
 .. Has satisfactorily completed the training phases for the aircraft, including recurrent training, that are required to serve as a pilot in command in operations under this subpart;

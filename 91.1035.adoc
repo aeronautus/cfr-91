@@ -15,7 +15,6 @@
 . Prior to each takeoff, the pilot in command must advise the passengers of the name of the entity in operational control of the flight.
 . The oral briefings required by paragraphs (a), (b), and (c) of this section must be given by the pilot in command or another crewmember.
 . The oral briefing required by paragraph (a) of this section may be delivered by means of an approved recording playback device that is audible to each passenger under normal noise levels.
-                
 . The oral briefing required by paragraph (a) of this section must be supplemented by printed cards that must be carried in the aircraft in locations convenient for the use of each passenger. The cards must—
 [arabic]
 .. Be appropriate for the aircraft on which they are to be used;

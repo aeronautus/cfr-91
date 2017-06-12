@@ -6,7 +6,6 @@
 .. Protect persons and property on the surface or in the air from a hazard associated with an incident on the surface;
 .. Provide a safe environment for the operation of disaster relief aircraft; or
 .. Prevent an unsafe congestion of sightseeing and other aircraft above an incident or event which may generate a high degree of public interest.
-                
 . When a NOTAM has been issued under paragraph (a)(1) of this section, no person may operate an aircraft within the designated area unless that aircraft is participating in the hazard relief activities and is being operated under the direction of the official in charge of on scene emergency response activities.
 . When a NOTAM has been issued under paragraph (a)(2) of this section, no person may operate an aircraft within the designated area unless at least one of the following conditions are met:
 [arabic]
@@ -15,7 +14,6 @@
 .. The aircraft is operating under the ATC approved IFR flight plan.
 .. The operation is conducted directly to or from an airport within the area, or is necessitated by the impracticability of VFR flight above or around the area due to weather, or terrain; notification is given to the Flight Service Station (FSS) or ATC facility specified in the NOTAM to receive advisories concerning disaster relief aircraft operations; and the operation does not hamper or endanger relief activities and is not conducted for the purpose of observing the disaster.
 .. The aircraft is carrying properly accredited news representatives, and, prior to entering the area, a flight plan is filed with the appropriate FAA or ATC facility specified in the Notice to Airmen and the operation is conducted above the altitude used by the disaster relief aircraft, unless otherwise authorized by the official in charge of on scene emergency response activities.
-                
 . When a NOTAM has been issued under paragraph (a)(3) of this section, no person may operate an aircraft within the designated area unless at least one of the following conditions is met:
 [arabic]
 .. The operation is conducted directly to or from an airport within the area, or is necessitated by the impracticability of VFR flight above or around the area due to weather or terrain, and the operation is not conducted for the purpose of observing the incident or event.

@@ -20,7 +20,6 @@ Each program operating manual must have the date of the last revision on each re
 . An approved Destination Airport Analysis, when required by § 91.1037(c), that includes the following elements, supported by aircraft performance data supplied by the aircraft manufacturer for the appropriate runway conditions—
 [arabic]
 .. Pilot qualifications and experience;
-                
 .. Aircraft performance data to include normal, abnormal and emergency procedures as supplied by the aircraft manufacturer;
 .. Airport facilities and topography;
 .. Runway conditions (including contamination);

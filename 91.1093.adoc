@@ -10,7 +10,6 @@
 [arabic]
 .. Check pilot duties, functions, and responsibilities.
 .. The applicable provisions of the Code of Federal Regulations and the program manager's policies and procedures.
-                
 .. The applicable methods, procedures, and techniques for conducting the required checks.
 .. Proper evaluation of student performance including the detection of—
 [lowerroman]

@@ -9,7 +9,6 @@ Each program manager must establish an aircraft inspection program for each make
 .. A schedule for performing the inspections that must be accomplished under the inspection program expressed in terms of the time in service, calendar time, number of system operations, or any combination thereof.
 .. The name and address of the person responsible for scheduling the inspections required by the inspection program. A copy of the inspection program must be made available to the person performing inspections on the aircraft and, upon request, to the Administrator.
 . Each person desiring to establish or change an approved inspection program under this section must submit the inspection program for approval to the Flight Standards District Office that issued the program manager's management specifications. The inspection program must be derived from one of the following programs:
-                
 [arabic]
 .. An inspection program currently recommended by the manufacturer of the aircraft, aircraft engines, propellers, appliances, and survival and emergency equipment;
 .. An inspection program that is part of a continuous airworthiness maintenance program currently in use by a person holding an air carrier or operating certificate issued under part 119 of this chapter and operating that make and model aircraft under part 121 or 135 of this chapter;

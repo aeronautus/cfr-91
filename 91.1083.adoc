@@ -14,7 +14,6 @@
 [lowerroman]
 ... Rapid decompression;
 ... Fire in flight or on the surface and smoke control procedures with emphasis on electrical equipment and related circuit breakers found in cabin areas;
-                
 ... Ditching and evacuation;
 ... Illness, injury, or other abnormal situations involving passengers or crewmembers; and
 ... Hijacking and other unusual situations.

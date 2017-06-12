@@ -8,7 +8,6 @@
 .. Prescribe the requirements for the qualification, approval and use of aircraft simulators and flight training devices in the conduct of an approved training program; and
 .. Permits training center personnel authorized under part 142 of this chapter who meet the requirements of § 91.1075 to conduct training, testing and checking under contract or other arrangements to those persons subject to the requirements of this subpart.
 . If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of subparts N and O of part 121 of this chapter instead of §§ 91.1065 through 91.1107, except for the operating experience requirements of § 121.434 of this chapter.
-                
 . If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of subparts G and H of part 135 of this chapter instead of §§ 91.1065 through 91.1107, except for the operating experience requirements of § 135.244 of this chapter.
 . For the purposes of this subpart, the following terms and definitions apply:
 [arabic]

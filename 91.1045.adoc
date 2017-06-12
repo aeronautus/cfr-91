@@ -10,7 +10,6 @@ No person may operate a program aircraft on a program flight unless the aircraft
 .. A terrain awareness and warning system as required by § 121.354 of this chapter as applicable to the aircraft specified in that section.
 .. A traffic alert and collision avoidance system as required by § 121.356 of this chapter as applicable to the aircraft specified in that section.
 .. Airborne weather radar as required by § 121.357 of this chapter, as applicable to the aircraft specified in that section.
-                
 . Airplanes having a passenger-seat configuration of 30 seats or fewer, excluding each crewmember, and a payload capacity of 7,500 pounds or less, and any rotorcraft (as applicable):
 [arabic]
 .. A cockpit voice recorder as required by § 135.151 of this chapter as applicable to the aircraft specified in that section.

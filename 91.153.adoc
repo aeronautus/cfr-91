@@ -12,6 +12,5 @@
 .. The amount of fuel on board (in hours).
 .. The number of persons in the aircraft, except where that information is otherwise readily available to the FAA.
 .. Any other information the pilot in command or ATC believes is necessary for ATC purposes.
-                
 . *Cancellation.* When a flight plan has been activated, the pilot in command, upon canceling or completing the flight under the flight plan, shall notify an FAA Flight Service Station or ATC facility.
 

@@ -5,7 +5,6 @@
 [arabic]
 .. Allowed under Civil Air Regulations § 4b.362 (a), (b), and (c) as in effect on December 20, 1951; or
 .. Approved under Special Civil Air Regulations SR-387, SR-389, SR-389A, or SR-389B, or under this section as in effect.
-              
 . Occupants in addition to those authorized under paragraph (a) of this section may be carried as follows:
 [arabic]
 .. For each additional floor-level exit at least 24 inches wide by 48 inches high, with an unobstructed 20-inch-wide access aisleway between the exit and the main passenger aisle, 12 additional occupants.
