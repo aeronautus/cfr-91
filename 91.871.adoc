@@ -1,10 +1,10 @@
 # § 91.871 - Waivers from interim compliance requirements.
 
-[loweralpha]
+[start=1,loweralpha]
 . Any U.S. operator or foreign air carrier subject to the requirements of § 91.865 or 91.867 of this subpart may request a waiver from any individual compliance requirement.
 . Applications must be filed with the Secretary of Transportation at least 120 days prior to the compliance date from which the waiver is requested.
 . Applicants must show that a grant of waiver would be in the public interest, and must include in its application its plans and activities for modifying its fleet, including evidence of good faith efforts to comply with the requirements of § 91.865 or § 91.867. The application should contain all information the applicant considers relevant, including, as appropriate, the following:
-[arabic]
+[start=1,arabic]
 .. The applicant's balance sheet and cash flow positions;
 .. The composition of the applicant's current fleet; and
 .. The applicant's delivery position with respect to new airplanes or noise-abatement equipment.

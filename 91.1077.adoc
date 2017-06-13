@@ -1,8 +1,8 @@
 # § 91.1077 - Training program and revision: Initial and final approval.
 
-[loweralpha]
+[start=1,loweralpha]
 . To obtain initial and final approval of a training program, or a revision to an approved training program, each program manager must submit to the Administrator—
-[arabic]
+[start=1,arabic]
 .. An outline of the proposed or revised curriculum, that provides enough information for a preliminary evaluation of the proposed training program or revision; and
 .. Additional relevant information that may be requested by the Administrator.
 . If the proposed training program or revision complies with this subpart, the Administrator grants initial approval in writing after which the program manager may conduct the training under that program. The Administrator then evaluates the effectiveness of the training program and advises the program manager of deficiencies, if any, that must be corrected.

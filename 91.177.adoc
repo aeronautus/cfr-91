@@ -1,11 +1,11 @@
 # § 91.177 - Minimum altitudes for IFR operations.
 
-[loweralpha]
+[start=1,loweralpha]
 . *Operation of aircraft at minimum altitudes.* Except when necessary for takeoff or landing, or unless otherwise authorized by the FAA, no person may operate an aircraft under IFR below—
-[arabic]
+[start=1,arabic]
 .. The applicable minimum altitudes prescribed in parts 95 and 97 of this chapter. However, if both a MEA and a MOCA are prescribed for a particular route or route segment, a person may operate an aircraft below the MEA down to, but not below, the MOCA, provided the applicable navigation signals are available. For aircraft using VOR for navigation, this applies only when the aircraft is within 22 nautical miles of that VOR (based on the reasonable estimate by the pilot operating the aircraft of that distance); or
 .. If no applicable minimum altitude is prescribed in parts 95 and 97 of this chapter, then—
-[lowerroman]
+[start=1,lowerroman]
 ... In the case of operations over an area designated as a mountainous area in part 95 of this chapter, an altitude of 2,000 feet above the highest obstacle within a horizontal distance of 4 nautical miles from the course to be flown; or
 ... In any other case, an altitude of 1,000 feet above the highest obstacle within a horizontal distance of 4 nautical miles from the course to be flown.
 . *Climb.* Climb to a higher minimum IFR altitude shall begin immediately after passing the point beyond which that minimum altitude applies, except that when ground obstructions intervene, the point beyond which that higher minimum altitude applies shall be crossed at or above the applicable MCA.

@@ -1,9 +1,9 @@
 # § 91.1019 - Conducting tests and inspections.
 
-[loweralpha]
+[start=1,loweralpha]
 . At any time or place, the Administrator may conduct an inspection or test, other than an en route inspection, to determine whether a program manager under this subpart is complying with title 49 of the United States Code, applicable regulations, and the program manager's management specifications.
 . The program manager must—
-[arabic]
+[start=1,arabic]
 .. Make available to the Administrator at the program manager's principal base of operations, or at a place approved by the Administrator, the program manager's management specifications; and
 .. Allow the Administrator to make any test or inspection, other than an en route inspection, to determine compliance respecting any matter stated in paragraph (a) of this section.
 . Each employee of, or person used by, the program manager who is responsible for maintaining the program manager's records required by or necessary to demonstrate compliance with this subpart must make those records available to the Administrator.

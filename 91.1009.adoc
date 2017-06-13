@@ -1,13 +1,13 @@
 # § 91.1009 - Clarification of operational control.
 
-[loweralpha]
+[start=1,loweralpha]
 . An owner is in operational control of a program flight when the owner—
-[arabic]
+[start=1,arabic]
 .. Has the rights and is subject to the limitations set forth in §§ 91.1003 through 91.1013;
 .. Has directed that a program aircraft carry passengers or property designated by that owner; and
 .. The aircraft is carrying those passengers or property.
 . An owner is not in operational control of a flight in the following circumstances:
-[arabic]
+[start=1,arabic]
 .. A program aircraft is used for a flight for administrative purposes such as demonstration, positioning, ferrying, maintenance, or crew training, and no passengers or property designated by such owner are being carried; or
 .. The aircraft being used for the flight is being operated under part 121 or 135 of this chapter.
 

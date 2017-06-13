@@ -1,8 +1,8 @@
 # § 91.1605 - Special Federal Aviation Regulation No. 77—Prohibition Against Certain Flights in the Baghdad (ORBB) Flight Information Region (FIR).
 
-[loweralpha]
+[start=1,loweralpha]
 . *Applicability.* This rule applies to the following persons:
-[arabic]
+[start=1,arabic]
 .. All U.S. air carriers and U.S. commercial operators;
 .. All persons exercising the privileges of an airman certificate issued by the FAA, except such persons operating U.S.-registered aircraft for a foreign air carrier; and
 .. All operators of aircraft registered in the United States, except where the operator of such aircraft is a foreign air carrier.

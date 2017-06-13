@@ -1,12 +1,12 @@
 # § 91.1027 - Recordkeeping.
 
-[loweralpha]
+[start=1,loweralpha]
 . Each program manager must keep at its principal base of operations or at other places approved by the Administrator, and must make available for inspection by the Administrator all of the following:
-[arabic]
+[start=1,arabic]
 .. The program manager's management specifications.
 .. A current list of the aircraft used or available for use in operations under this subpart, the operations for which each is equipped (for example, MNPS, RNP5/10, RVSM.).
 .. An individual record of each pilot used in operations under this subpart, including the following information:
-[lowerroman]
+[start=1,lowerroman]
 ... The full name of the pilot.
 ... The pilot certificate (by type and number) and ratings that the pilot holds.
 ... The pilot's aeronautical experience in sufficient detail to determine the pilot's qualifications to pilot aircraft in operations under this subpart.
@@ -18,13 +18,13 @@
 ... Any action taken concerning the pilot's release from employment for physical or professional disqualification; and
 ... The date of the satisfactory completion of initial, transition, upgrade, and differences training and each recurrent training phase required by this subpart.
 .. An individual record for each flight attendant used in operations under this subpart, including the following information:
-[lowerroman]
+[start=1,lowerroman]
 ... The full name of the flight attendant, and
 ... The date and result of training required by § 91.1063, as applicable.
 .. A current list of all fractional owners and associated aircraft. This list or a reference to its location must be included in the management specifications and should be of sufficient detail to determine the minimum fractional ownership interest of each aircraft.
 . Each program manager must keep each record required by paragraph (a)(2) of this section for at least 6 months, and must keep each record required by paragraphs (a)(3) and (a)(4) of this section for at least 12 months. When an employee is no longer employed or affiliated with the program manager or fractional owner, each record required by paragraphs (a)(3) and (a)(4) of this section must be retained for at least 12 months.
 . Each program manager is responsible for the preparation and accuracy of a load manifest in duplicate containing information concerning the loading of the aircraft. The manifest must be prepared before each takeoff and must include—
-[arabic]
+[start=1,arabic]
 .. The number of passengers;
 .. The total weight of the loaded aircraft;
 .. The maximum allowable takeoff weight for that flight;

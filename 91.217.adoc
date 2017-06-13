@@ -1,8 +1,8 @@
 # § 91.217 - Data correspondence between automatically reported pressure altitude data and the pilot's altitude reference.
 
-[loweralpha]
+[start=1,loweralpha]
 . No person may operate any automatic pressure altitude reporting equipment associated with a radar beacon transponder—
-[arabic]
+[start=1,arabic]
 .. When deactivation of that equipment is directed by ATC;
 .. Unless, as installed, that equipment was tested and calibrated to transmit altitude data corresponding within 125 feet (on a 95 percent probability basis) of the indicated or calibrated datum of the altimeter normally used to maintain flight altitude, with that altimeter referenced to 29.92 inches of mercury for altitudes from sea level to the maximum operating altitude of the aircraft; or
 .. Unless the altimeters and digitizers in that equipment meet the standards of TSO-C10b and TSO-C88, respectively.

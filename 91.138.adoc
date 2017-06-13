@@ -1,9 +1,9 @@
 # § 91.138 - Temporary flight restrictions in national disaster areas in the State of Hawaii.
 
-[loweralpha]
+[start=1,loweralpha]
 . When the Administrator has determined, pursuant to a request and justification provided by the Governor of the State of Hawaii, or the Governor's designee, that an inhabited area within a declared national disaster area in the State of Hawaii is in need of protection for humanitarian reasons, the Administrator will issue a Notice to Airmen (NOTAM) designating an area within which temporary flight restrictions apply. The Administrator will designate the extent and duration of the temporary flight restrictions necessary to provide for the protection of persons and property on the surface.
 . When a NOTAM has been issued in accordance with this section, no person may operate an aircraft within the designated area unless at least one of the following conditions is met:
-[arabic]
+[start=1,arabic]
 .. That person has obtained authorization from the official in charge of associated emergency or disaster relief response activities, and is operating the aircraft under the conditions of that authorization.
 .. The aircraft is carrying law enforcement officials.
 .. The aircraft is carrying persons involved in an emergency or a legitimate scientific purpose.

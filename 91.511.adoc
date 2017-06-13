@@ -1,10 +1,10 @@
 # § 91.511 - Communication and navigation equipment for overwater operations.
 
-[loweralpha]
+[start=1,loweralpha]
 . Except as provided in paragraphs (c), (d), and (f) of this section, no person may take off an airplane for a flight over water more than 30 minutes flying time or 100 nautical miles from the nearest shore unless it has at least the following operable equipment:
-[arabic]
+[start=1,arabic]
 .. Radio communication equipment appropriate to the facilities to be used and able to transmit to, and receive from, at least one communication facility from any place along the route:
-[lowerroman]
+[start=1,lowerroman]
 ... Two transmitters.
 ... Two microphones.
 ... Two headsets or one headset and one speaker.
@@ -15,7 +15,7 @@
 . Notwithstanding the provisions of paragraph (a) of this section, when both VHF and HF communications equipment are required for the route and the airplane has two VHF transmitters and two VHF receivers for communications, only one HF transmitter and one HF receiver is required for communications.
 . As used in this section, the term *shore* means that area of the land adjacent to the water which is above the high-water mark and excludes land areas which are intermittently under water.
 . Notwithstanding the requirements in paragraph (a)(2) of this section, a person may operate in the Gulf of Mexico, the Caribbean Sea, and the Atlantic Ocean west of a line which extends from 44°47′00″ N / 67°00′00″ W to 39°00′00″ N / 67°00′00″ W to 38°30′00″ N / 60°00′00″ W south along the 60°00′00″ W longitude line to the point where the line intersects with the northern coast of South America, when:
-[arabic]
+[start=1,arabic]
 .. A single long-range navigation system is installed, operational, and appropriate for the route; and
 .. Flight conditions and the aircraft's capabilities are such that no more than a 30-minute gap in two-way radio very high frequency communications is expected to exist.
 

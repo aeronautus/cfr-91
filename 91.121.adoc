@@ -1,10 +1,10 @@
 # § 91.121 - Altimeter settings.
 
-[loweralpha]
+[start=1,loweralpha]
 . Each person operating an aircraft shall maintain the cruising altitude or flight level of that aircraft, as the case may be, by reference to an altimeter that is set, when operating—
-[arabic]
+[start=1,arabic]
 .. Below 18,000 feet MSL, to—
-[lowerroman]
+[start=1,lowerroman]
 ... The current reported altimeter setting of a station along the route and within 100 nautical miles of the aircraft;
 ... If there is no station within the area prescribed in paragraph (a)(1)(i) of this section, the current reported altimeter setting of an appropriate available station; or
 ... In the case of an aircraft not equipped with a radio, the elevation of the departure airport or an appropriate altimeter setting available before departure; or

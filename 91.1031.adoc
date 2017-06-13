@@ -1,8 +1,8 @@
 # § 91.1031 - Pilot in command or second in command: Designation required.
 
-[loweralpha]
+[start=1,loweralpha]
 . Each program manager must designate a—
-[arabic]
+[start=1,arabic]
 .. Pilot in command for each program flight; and
 .. Second in command for each program flight requiring two pilots.
 . The pilot in command, as designated by the program manager, must remain the pilot in command at all times during that flight.

@@ -2,7 +2,7 @@
 
 No program manager or owner may use a flight attendant crewmember, nor may any person serve as a flight attendant crewmember unless, since the beginning of the 12th month before that service, the program manager has determined by appropriate initial and recurrent testing that the person is knowledgeable and competent in the following areas as appropriate to assigned duties and responsibilities—
 
-[loweralpha]
+[start=1,loweralpha]
 . Authority of the pilot in command;
 . Passenger handling, including procedures to be followed in handling deranged persons or other persons whose conduct might jeopardize safety;
 . Crewmember assignments, functions, and responsibilities during ditching and evacuation of persons who may need the assistance of another person to move expeditiously to an exit in an emergency;

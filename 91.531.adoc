@@ -1,8 +1,8 @@
 # § 91.531 - Second in command requirements.
 
-[loweralpha]
+[start=1,loweralpha]
 . Except as provided in paragraph (b) and (d) of this section, no person may operate the following airplanes without a pilot who is designated as second in command of that airplane:
-[arabic]
+[start=1,arabic]
 .. A large airplane, except that a person may operate an airplane certificated under SFAR 41 without a pilot who is designated as second in command if that airplane is certificated for operation with one pilot.
 .. A turbojet-powered multiengine airplane for which two pilots are required under the type certification requirements for that airplane.
 .. A commuter category airplane, except that a person may operate a commuter category airplane notwithstanding paragraph (a)(1) of this section, that has a passenger seating configuration, excluding pilot seats, of nine or less without a pilot who is designated as second in command if that airplane is type certificated for operations with one pilot.

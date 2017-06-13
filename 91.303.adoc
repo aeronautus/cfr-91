@@ -2,7 +2,7 @@
 
 No person may operate an aircraft in aerobatic flight—
 
-[loweralpha]
+[start=1,loweralpha]
 . Over any congested area of a city, town, or settlement;
 . Over an open air assembly of persons;
 . Within the lateral boundaries of the surface areas of Class B, Class C, Class D, or Class E airspace designated for an airport;

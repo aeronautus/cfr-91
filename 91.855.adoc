@@ -2,16 +2,16 @@
 
 No person may operate any airplane subject to § 91.801(c) of this subpart to or from an airport in the contiguous United States unless one or more of the following apply:
 
-[loweralpha]
+[start=1,loweralpha]
 . The airplane complies with Stage 3 or Stage 4 noise levels.
 . The airplane complies with Stage 2 noise levels and was owned by a U.S. person on and since November 5, 1990. Stage 2 airplanes that meet these criteria and are leased to foreign airlines are also subject to the return provisions of paragraph (e) of this section.
 . The airplane complies with Stage 2 noise levels, is owned by a non-U.S. person, and is the subject of a binding lease to a U.S. person effective before and on September 25, 1991. Any such airplane may be operated for the term of the lease in effect on that date, and any extensions thereof provided for in that lease.
 . The airplane complies with Stage 2 noise levels and is operated by a foreign air carrier.
 . The airplane complies with Stage 2 noise levels and is operated by a foreign operator other than for the purpose of foreign air commerce.
 . The airplane complies with Stage 2 noise levels and—
-[arabic]
+[start=1,arabic]
 .. On November 5, 1990, was owned by:
-[lowerroman]
+[start=1,lowerroman]
 ... A corporation, trust, or partnership organized under the laws of the United States or any State (including individual States, territories, possessions, and the District of Columbia);
 ... An individual who is a citizen of the United States; or
 ... An entity owned or controlled by a corporation, trust, partnership, or individual described in paragraph (f)(1) (i) or (ii) of this section; and

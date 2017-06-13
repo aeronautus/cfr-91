@@ -1,8 +1,8 @@
 # § 91.533 - Flight attendant requirements.
 
-[loweralpha]
+[start=1,loweralpha]
 . No person may operate an airplane unless at least the following number of flight attendants are on board the airplane:
-[arabic]
+[start=1,arabic]
 .. For airplanes having more than 19 but less than 51 passengers on board, one flight attendant.
 .. For airplanes having more than 50 but less than 101 passengers on board, two flight attendants.
 .. For airplanes having more than 100 passengers on board, two flight attendants plus one additional flight attendant for each unit (or part of a unit) of 50 passengers above 100.

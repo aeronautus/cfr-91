@@ -2,7 +2,7 @@
 
 Each program operating manual must have the date of the last revision on each revised page. Unless otherwise authorized by the Administrator, the manual must include the following:
 
-[loweralpha]
+[start=1,loweralpha]
 . Procedures for ensuring compliance with aircraft weight and balance limitations;
 . Copies of the program manager's management specifications or appropriate extracted information, including area of operations authorized, category and class of aircraft authorized, crew complements, and types of operations authorized;
 . Procedures for complying with accident notification requirements;
@@ -18,7 +18,7 @@ Each program operating manual must have the date of the last revision on each re
 . Procedures for the evacuation of persons who may need the assistance of another person to move expeditiously to an exit if an emergency occurs;
 . Procedures for performance planning that take into account take off, landing and en route conditions;
 . An approved Destination Airport Analysis, when required by § 91.1037(c), that includes the following elements, supported by aircraft performance data supplied by the aircraft manufacturer for the appropriate runway conditions—
-[arabic]
+[start=1,arabic]
 .. Pilot qualifications and experience;
 .. Aircraft performance data to include normal, abnormal and emergency procedures as supplied by the aircraft manufacturer;
 .. Airport facilities and topography;
@@ -29,7 +29,7 @@ Each program operating manual must have the date of the last revision on each re
 .. Environmental conditions; and
 .. Other criteria that affect aircraft performance.
 . A suitable system (which may include a coded or electronic system) that provides for preservation and retrieval of maintenance recordkeeping information required by § 91.1113 in a manner acceptable to the Administrator that provides—
-[arabic]
+[start=1,arabic]
 .. A description (or reference to date acceptable to the Administrator) of the work performed:
 .. The name of the person performing the work if the work is performed by a person outside the organization of the program manager; and
 .. The name or other positive identification of the individual approving the work.

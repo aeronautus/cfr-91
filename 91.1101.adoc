@@ -2,9 +2,9 @@
 
 Initial, transition, and upgrade ground training for pilots must include instruction in at least the following, as applicable to their duties:
 
-[loweralpha]
+[start=1,loweralpha]
 . General subjects—
-[arabic]
+[start=1,arabic]
 .. The program manager's flight locating procedures;
 .. Principles and methods for determining weight and balance, and runway limitations for takeoff and landing;
 .. Enough meteorology to ensure a practical knowledge of weather phenomena, including the principles of frontal systems, icing, fog, thunderstorms, windshear and, if appropriate, high altitude weather situations;
@@ -14,19 +14,19 @@ Initial, transition, and upgrade ground training for pilots must include instruc
 .. Visual cues before and during descent below Decision Altitude or MDA; and
 .. Other instructions necessary to ensure the pilot's competence.
 . For each aircraft type—
-[arabic]
+[start=1,arabic]
 .. A general description;
 .. Performance characteristics;
 .. Engines and propellers;
 .. Major components;
 .. Major aircraft systems (that is, flight controls, electrical, and hydraulic), other systems, as appropriate, principles of normal, abnormal, and emergency operations, appropriate procedures and limitations;
 .. Knowledge and procedures for—
-[lowerroman]
+[start=1,lowerroman]
 ... Recognizing and avoiding severe weather situations;
 ... Escaping from severe weather situations, in case of inadvertent encounters, including low-altitude windshear (except that rotorcraft pilots are not required to be trained in escaping from low-altitude windshear);
 ... Operating in or near thunderstorms (including best penetration altitudes), turbulent air (including clear air turbulence), inflight icing, hail, and other potentially hazardous meteorological conditions; and
 ... Operating airplanes during ground icing conditions, (that is, any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the aircraft), if the program manager expects to authorize takeoffs in ground icing conditions, including:
-[upperalpha]
+[start=1,upperalpha]
 .... The use of holdover times when using deicing/anti-icing fluids;
 .... Airplane deicing/anti-icing procedures, including inspection and check procedures and responsibilities;
 .... Communications;

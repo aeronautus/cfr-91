@@ -1,12 +1,12 @@
 # § 91.413 - ATC transponder tests and inspections.
 
-[loweralpha]
+[start=1,loweralpha]
 . No persons may use an ATC transponder that is specified in 91.215(a), 121.345(c), or § 135.143(c) of this chapter unless, within the preceding 24 calendar months, the ATC transponder has been tested and inspected and found to comply with appendix F of part 43 of this chapter; and
 . Following any installation or maintenance on an ATC transponder where data correspondence error could be introduced, the integrated system has been tested, inspected, and found to comply with paragraph (c), appendix E, of part 43 of this chapter.
 . The tests and inspections specified in this section must be conducted by—
-[arabic]
+[start=1,arabic]
 .. A certificated repair station properly equipped to perform those functions and holding—
-[lowerroman]
+[start=1,lowerroman]
 ... A radio rating, Class III;
 ... A limited radio rating appropriate to the make and model transponder to be tested;
 ... A limited rating appropriate to the test to be performed;

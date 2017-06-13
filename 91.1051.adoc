@@ -2,14 +2,14 @@
 
 Within 90 days of an individual beginning service as a pilot, the program manager must request the following information:
 
-[loweralpha]
+[start=1,loweralpha]
 . FAA records pertaining to—
-[arabic]
+[start=1,arabic]
 .. Current pilot certificates and associated type ratings.
 .. Current medical certificates.
 .. Summaries of legal enforcement actions resulting in a finding by the Administrator of a violation.
 . Records from all previous employers during the five years preceding the date of the employment application where the applicant worked as a pilot. If any of these firms are in bankruptcy, the records must be requested from the trustees in bankruptcy for those employees. If the previous employer is no longer in business, a documented good faith effort must be made to obtain the records. Records from previous employers must include, as applicable—
-[arabic]
+[start=1,arabic]
 .. Crew member records.
 .. Drug testing—collection, testing, and rehabilitation records pertaining to the individual.
 .. Alcohol misuse prevention program records pertaining to the individual.

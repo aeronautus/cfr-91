@@ -1,26 +1,26 @@
 # § 91.711 - Special rules for foreign civil aircraft.
 
-[loweralpha]
+[start=1,loweralpha]
 . *General.* In addition to the other applicable regulations of this part, each person operating a foreign civil aircraft within the United States shall comply with this section.
 . *VFR.* No person may conduct VFR operations which require two-way radio communications under this part unless at least one crewmember of that aircraft is able to conduct two-way radio communications in the English language and is on duty during that operation.
 . *IFR.* No person may operate a foreign civil aircraft under IFR unless—
-[arabic]
+[start=1,arabic]
 .. That aircraft is equipped with—
-[lowerroman]
+[start=1,lowerroman]
 ... Radio equipment allowing two-way radio communication with ATC when it is operated in controlled airspace; and
 ... Navigation equipment suitable for the route to be flown.
 .. Each person piloting the aircraft—
-[lowerroman]
+[start=1,lowerroman]
 ... Holds a current United States instrument rating or is authorized by his foreign airman certificate to pilot under IFR; and
 ... Is thoroughly familiar with the United States en route, holding, and letdown procedures; and
 .. At least one crewmember of that aircraft is able to conduct two-way radiotelephone communications in the English language and that crewmember is on duty while the aircraft is approaching, operating within, or leaving the United States.
 . *Over water.* Each person operating a foreign civil aircraft over water off the shores of the United States shall give flight notification or file a flight plan in accordance with the Supplementary Procedures for the ICAO region concerned.
 . *Flight at and above FL 240.* If VOR navigation equipment is required under paragraph (c)(1)(ii) of this section, no person may operate a foreign civil aircraft within the 50 States and the District of Columbia at or above FL 240, unless the aircraft is equipped with approved DME or a suitable RNAV system. When the DME or RNAV system required by this paragraph fails at and above FL 240, the pilot in command of the aircraft must notify ATC immediately and may then continue operations at and above FL 240 to the next airport of intended landing where repairs or replacement of the equipment can be made. A foreign civil aircraft may be operated within the 50 States and the District of Columbia at or above FL 240 without DME or an RNAV system when operated for the following purposes, and ATC is notified before each takeoff:
-[arabic]
+[start=1,arabic]
 .. Ferry flights to and from a place in the United States where repairs or alterations are to be made.
 .. Ferry flights to a new country of registry.
 .. Flight of a new aircraft of U.S. manufacture for the purpose of—
-[lowerroman]
+[start=1,lowerroman]
 ... Flight testing the aircraft;
 ... Training foreign flight crews in the operation of the aircraft; or
 ... Ferrying the aircraft for export delivery outside the United States.

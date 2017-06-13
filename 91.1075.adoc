@@ -2,10 +2,10 @@
 
 Other than the program manager, only the following are eligible under this subpart to conduct training, testing, and checking under contract or other arrangement to those persons subject to the requirements of this subpart.
 
-[loweralpha]
+[start=1,loweralpha]
 . Another program manager operating under this subpart:
 . A training center certificated under part 142 of this chapter to conduct training, testing, and checking required by this subpart if the training center—
-[arabic]
+[start=1,arabic]
 .. Holds applicable training specifications issued under part 142 of this chapter;
 .. Has facilities, training equipment, and courseware meeting the applicable requirements of part 142 of this chapter;
 .. Has approved curriculums, curriculum segments, and portions of curriculum segments applicable for use in training courses required by this subpart; and

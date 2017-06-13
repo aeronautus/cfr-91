@@ -1,9 +1,9 @@
 # § 91.509 - Survival equipment for overwater operations.
 
-[loweralpha]
+[start=1,loweralpha]
 . No person may take off an airplane for a flight over water more than 50 nautical miles from the nearest shore unless that airplane is equipped with a life preserver or an approved flotation means for each occupant of the airplane.
 . Except as provided in paragraph (c) of this section, no person may take off an airplane for flight over water more than 30 minutes flying time or 100 nautical miles from the nearest shore, whichever is less, unless it has on board the following survival equipment:
-[arabic]
+[start=1,arabic]
 .. A life preserver, equipped with an approved survivor locator light, for each occupant of the airplane.
 .. Enough liferafts (each equipped with an approved survival locator light) of a rated capacity and buoyancy to accommodate the occupants of the airplane.
 .. At least one pyrotechnic signaling device for each liferaft.

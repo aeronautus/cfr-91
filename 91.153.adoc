@@ -1,8 +1,8 @@
 # § 91.153 - VFR flight plan: Information required.
 
-[loweralpha]
+[start=1,loweralpha]
 . *Information required.* Unless otherwise authorized by ATC, each person filing a VFR flight plan shall include in it the following information:
-[arabic]
+[start=1,arabic]
 .. The aircraft identification number and, if necessary, its radio call sign.
 .. The type of the aircraft or, in the case of a formation flight, the type of each aircraft and the number of aircraft in the formation.
 .. The full name and address of the pilot in command or, in the case of a formation flight, the formation commander.

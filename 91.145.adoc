@@ -1,8 +1,8 @@
 # § 91.145 - Management of aircraft operations in the vicinity of aerial demonstrations and major sporting events.
 
-[loweralpha]
+[start=1,loweralpha]
 . The FAA will issue a Notice to Airmen (NOTAM) designating an area of airspace in which a temporary flight restriction applies when it determines that a temporary flight restriction is necessary to protect persons or property on the surface or in the air, to maintain air safety and efficiency, or to prevent the unsafe congestion of aircraft in the vicinity of an aerial demonstration or major sporting event. These demonstrations and events may include:
-[arabic]
+[start=1,arabic]
 .. United States Naval Flight Demonstration Team (Blue Angels);
 .. United States Air Force Air Demonstration Squadron (Thunderbirds);
 .. United States Army Parachute Team (Golden Knights);
@@ -16,7 +16,7 @@
 .. Indianapolis 500 Mile Race;
 .. Any other aerial demonstration or sporting event the FAA determines to need a temporary flight restriction in accordance with paragraph (b) of this section.
 . In deciding whether a temporary flight restriction is necessary for an aerial demonstration or major sporting event not listed in paragraph (a) of this section, the FAA considers the following factors:
-[arabic]
+[start=1,arabic]
 .. Area where the event will be held.
 .. Effect flight restrictions will have on known aircraft operations.
 .. Any existing ATC airspace traffic management restrictions.
@@ -31,16 +31,16 @@
 .. Emergency procedures that will be in effect.
 . A NOTAM issued under this section will state the name of the aerial demonstration or sporting event and specify the effective dates and times, the geographic features or coordinates, and any other restrictions or procedures governing flight operations in the designated airspace.
 . When a NOTAM has been issued in accordance with this section, no person may operate an aircraft or device, or engage in any activity within the designated airspace area, except in accordance with the authorizations, terms, and conditions of the temporary flight restriction published in the NOTAM, unless otherwise authorized by:
-[arabic]
+[start=1,arabic]
 .. Air traffic control; or
 .. A Flight Standards Certificate of Waiver or Authorization issued for the demonstration or event.
 . For the purpose of this section:
-[arabic]
+[start=1,arabic]
 .. *Flight restricted airspace area for an aerial demonstration—*The amount of airspace needed to protect persons and property on the surface or in the air, to maintain air safety and efficiency, or to prevent the unsafe congestion of aircraft will vary depending on the aerial demonstration and the factors listed in paragraph (b) of this section. The restricted airspace area will normally be limited to a 5 nautical mile radius from the center of the demonstration and an altitude 17000 mean sea level (for high performance aircraft) or 13000 feet above the surface (for certain parachute operations), but will be no greater than the minimum airspace necessary for the management of aircraft operations in the vicinity of the specified area.
 .. *Flight restricted area for a major sporting event—*The amount of airspace needed to protect persons and property on the surface or in the air, to maintain air safety and efficiency, or to prevent the unsafe congestion of aircraft will vary depending on the size of the event and the factors listed in paragraph (b) of this section. The restricted airspace will normally be limited to a 3 nautical mile radius from the center of the event and 2500 feet above the surface but will not be greater than the minimum airspace necessary for the management of aircraft operations in the vicinity of the specified area.
 . A NOTAM issued under this section will be issued at least 30 days in advance of an aerial demonstration or a major sporting event, unless the FAA finds good cause for a shorter period and explains this in the NOTAM.
 . When warranted, the FAA Administrator may exclude the following flights from the provisions of this section:
-[arabic]
+[start=1,arabic]
 .. Essential military.
 .. Medical and rescue.
 .. Presidential and Vice Presidential.

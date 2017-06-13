@@ -1,9 +1,9 @@
 # § 91.1427 - CAMP: Manual requirements.
 
-[loweralpha]
+[start=1,loweralpha]
 . Each program manager who maintains program aircraft under a CAMP must put in the operating manual the chart or description of the program manager's organization required by § 91.1423 and a list of persons with whom it has arranged for the performance of any of its required inspections, and other maintenance, preventive maintenance, or alterations, including a general description of that work.
 . Each program manager must put in the operating manual the programs required by § 91.1425 that must be followed in performing maintenance, preventive maintenance, or alterations of that program manager's aircraft, including airframes, aircraft engines, propellers, rotors, appliances, emergency equipment, and parts, and must include at least the following:
-[arabic]
+[start=1,arabic]
 .. The method of performing routine and nonroutine maintenance (other than required inspections), preventive maintenance, or alterations.
 .. A designation of the items of maintenance and alteration that must be inspected (required inspections) including at least those that could result in a failure, malfunction, or defect endangering the safe operation of the aircraft, if not performed properly or if improper parts or materials are used.
 .. The method of performing required inspections and a designation by occupational title of personnel authorized to perform each required inspection.
@@ -14,7 +14,7 @@
 .. Instructions and procedures to prevent any decision of an inspector regarding any required inspection from being countermanded by persons other than supervisory personnel of the inspection unit, or a person at the level of administrative control that has overall responsibility for the management of both the required inspection functions and the other maintenance, preventive maintenance, or alterations functions.
 .. Procedures to ensure that maintenance (including required inspections), preventive maintenance, or alterations that are not completed because of work interruptions are properly completed before the aircraft is released to service.
 . Each program manager must put in the manual a suitable system (which may include an electronic or coded system) that provides for the retention of the following information—
-[arabic]
+[start=1,arabic]
 .. A description (or reference to data acceptable to the Administrator) of the work performed;
 .. The name of the person performing the work if the work is performed by a person outside the organization of the program manager; and
 .. The name or other positive identification of the individual approving the work.

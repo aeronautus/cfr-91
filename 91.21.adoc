@@ -1,12 +1,12 @@
 # § 91.21 - Portable electronic devices.
 
-[loweralpha]
+[start=1,loweralpha]
 . Except as provided in paragraph (b) of this section, no person may operate, nor may any operator or pilot in command of an aircraft allow the operation of, any portable electronic device on any of the following U.S.-registered civil aircraft:
-[arabic]
+[start=1,arabic]
 .. Aircraft operated by a holder of an air carrier operating certificate or an operating certificate; or
 .. Any other aircraft while it is operated under IFR.
 . Paragraph (a) of this section does not apply to—
-[arabic]
+[start=1,arabic]
 .. Portable voice recorders;
 .. Hearing aids;
 .. Heart pacemakers;

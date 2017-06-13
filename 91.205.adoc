@@ -1,9 +1,9 @@
 # § 91.205 - Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements.
 
-[loweralpha]
+[start=1,loweralpha]
 . *General.* Except as provided in paragraphs (c)(3) and (e) of this section, no person may operate a powered civil aircraft with a standard category U.S. airworthiness certificate in any operation described in paragraphs (b) through (f) of this section unless that aircraft contains the instruments and equipment specified in those paragraphs (or FAA-approved equivalents) for that type of operation, and those instruments and items of equipment are in operable condition.
 . *Visual-flight rules (day).* For VFR flight during the day, the following instruments and equipment are required:
-[arabic]
+[start=1,arabic]
 .. Airspeed indicator.
 .. Altimeter.
 .. Magnetic direction indicator.
@@ -18,52 +18,58 @@
 .. If the aircraft is operated for hire over water and beyond power-off gliding distance from shore, approved flotation gear readily available to each occupant and, unless the aircraft is operating under part 121 of this subchapter, at least one pyrotechnic signaling device. As used in this section, “shore” means that area of the land adjacent to the water which is above the high water mark and excludes land areas which are intermittently under water.
 .. An approved safety belt with an approved metal-to-metal latching device for each occupant 2 years of age or older.
 .. For small civil airplanes manufactured after July 18, 1978, an approved shoulder harness for each front seat. The shoulder harness must be designed to protect the occupant from serious head injury when the occupant experiences the ultimate inertia forces specified in § 23.561(b)(2) of this chapter. Each shoulder harness installed at a flight crewmember station must permit the crewmember, when seated and with the safety belt and shoulder harness fastened, to perform all functions necessary for flight operations. For purposes of this paragraph—
-[lowerroman]
+[start=1,lowerroman]
 ... The date of manufacture of an airplane is the date the inspection acceptance records reflect that the airplane is complete and meets the FAA-approved type design data; and
 ... A front seat is a seat located at a flight crewmember station or any seat located alongside such a seat.
 .. An emergency locator transmitter, if required by § 91.207.
 .. For normal, utility, and acrobatic category airplanes with a seating configuration, excluding pilot seats, of 9 or less, manufactured after December 12, 1986, a shoulder harness for—
-[lowerroman]
+[start=1,lowerroman]
 ... Each front seat that meets the requirements of § 23.785 (g) and (h) of this chapter in effect on December 12, 1985;
 ... Each additional seat that meets the requirements of § 23.785(g) of this chapter in effect on December 12, 1985.
 .. For rotorcraft manufactured after September 16, 1992, a shoulder harness for each seat that meets the requirements of § 27.2 or § 29.2 of this chapter in effect on September 16, 1991.
-. *Visual flight rules (night).* For VFR flight at night, the following instruments and equipment are required:
-[arabic]
-.. Instruments and equipment specified in paragraph (b) of this section.
-.. Approved position lights.
-.. An approved aviation red or aviation white anticollision light system on all U.S.-registered civil aircraft. Anticollision light systems initially installed after August 11, 1971, on aircraft for which a type certificate was issued or applied for before August 11, 1971, must at least meet the anticollision light standards of part 23, 25, 27, or 29 of this chapter, as applicable, that were in effect on August 10, 1971, except that the color may be either aviation red or aviation white. In the event of failure of any light of the anticollision light system, operations with the aircraft may be continued to a stop where repairs or replacement can be made.
-.. If the aircraft is operated for hire, one electric landing light.
-.. An adequate source of electrical energy for all installed electrical and radio equipment.
-.. One spare set of fuses, or three spare fuses of each kind required, that are accessible to the pilot in flight.
-. *Instrument flight rules.* For IFR flight, the following instruments and equipment are required:
-[arabic]
-.. Instruments and equipment specified in paragraph (b) of this section, and, for night flight, instruments and equipment specified in paragraph (c) of this section.
-.. Two-way radio communication and navigation equipment suitable for the route to be flown.
-.. Gyroscopic rate-of-turn indicator, except on the following aircraft:
-[lowerroman]
-... Airplanes with a third attitude instrument system usable through flight attitudes of 360 degrees of pitch and roll and installed in accordance with the instrument requirements prescribed in § 121.305(j) of this chapter; and
-... Rotorcraft with a third attitude instrument system usable through flight attitudes of ±80 degrees of pitch and ±120 degrees of roll and installed in accordance with § 29.1303(g) of this chapter.
-.. Slip-skid indicator.
-.. Sensitive altimeter adjustable for barometric pressure.
-.. A clock displaying hours, minutes, and seconds with a sweep-second pointer or digital presentation.
-.. Generator or alternator of adequate capacity.
-.. Gyroscopic pitch and bank indicator (artificial horizon).
-.. Gyroscopic direction indicator (directional gyro or equivalent).
-. *Flight at and above 24,000 feet MSL (FL 240).* If VOR navigation equipment is required under paragraph (d)(2) of this section, no person may operate a U.S.-registered civil aircraft within the 50 states and the District of Columbia at or above FL 240 unless that aircraft is equipped with approved DME or a suitable RNAV system. When the DME or RNAV system required by this paragraph fails at and above FL 240, the pilot in command of the aircraft must notify ATC immediately, and then may continue operations at and above FL 240 to the next airport of intended landing where repairs or replacement of the equipment can be made.
-. *Category II operations.* The requirements for Category II operations are the instruments and equipment specified in—
-[arabic]
-.. Paragraph (d) of this section; and
-.. Appendix A to this part.
-. *Category III operations.* The instruments and equipment required for Category III operations are specified in paragraph (d) of this section.
-. *Night vision goggle operations.* For night vision goggle operations, the following instruments and equipment must be installed in the aircraft, functioning in a normal manner, and approved for use by the FAA:
-[arabic]
-.. Instruments and equipment specified in paragraph (b) of this section, instruments and equipment specified in paragraph (c) of this section;
-.. Night vision goggles;
-.. Interior and exterior aircraft lighting system required for night vision goggle operations;
-.. Two-way radio communications system;
-.. Gyroscopic pitch and bank indicator (artificial horizon);
-.. Generator or alternator of adequate capacity for the required instruments and equipment; and
-.. Radar altimeter.
-[lowerroman]
-... *Exclusions.* Paragraphs (f) and (g) of this section do not apply to operations conducted by a holder of a certificate issued under part 121 or part 135 of this chapter.
+[start=100,lowerroman]
+... *Visual flight rules (night).* For VFR flight at night, the following instruments and equipment are required:
+[start=1,arabic]
+.... Instruments and equipment specified in paragraph (b) of this section.
+.... Approved position lights.
+.... An approved aviation red or aviation white anticollision light system on all U.S.-registered civil aircraft. Anticollision light systems initially installed after August 11, 1971, on aircraft for which a type certificate was issued or applied for before August 11, 1971, must at least meet the anticollision light standards of part 23, 25, 27, or 29 of this chapter, as applicable, that were in effect on August 10, 1971, except that the color may be either aviation red or aviation white. In the event of failure of any light of the anticollision light system, operations with the aircraft may be continued to a stop where repairs or replacement can be made.
+.... If the aircraft is operated for hire, one electric landing light.
+.... An adequate source of electrical energy for all installed electrical and radio equipment.
+.... One spare set of fuses, or three spare fuses of each kind required, that are accessible to the pilot in flight.
+[start=1,arabic]
+.... Instruments and equipment specified in paragraph (b) of this section, and, for night flight, instruments and equipment specified in paragraph (c) of this section.
+.... Two-way radio communication and navigation equipment suitable for the route to be flown.
+.... Gyroscopic rate-of-turn indicator, except on the following aircraft:
+[start=1,lowerroman]
+..... Airplanes with a third attitude instrument system usable through flight attitudes of 360 degrees of pitch and roll and installed in accordance with the instrument requirements prescribed in § 121.305(j) of this chapter; and
+..... Rotorcraft with a third attitude instrument system usable through flight attitudes of ±80 degrees of pitch and ±120 degrees of roll and installed in accordance with § 29.1303(g) of this chapter.
+.... Slip-skid indicator.
+.... Sensitive altimeter adjustable for barometric pressure.
+.... A clock displaying hours, minutes, and seconds with a sweep-second pointer or digital presentation.
+.... Generator or alternator of adequate capacity.
+.... Gyroscopic pitch and bank indicator (artificial horizon).
+.... Gyroscopic direction indicator (directional gyro or equivalent).
+[start=1,arabic]
+..... Paragraph (d) of this section; and
+..... Appendix A to this part.
+[start=1,arabic]
+...... Instruments and equipment specified in paragraph (b) of this section, instruments and equipment specified in paragraph (c) of this section;
+...... Night vision goggles;
+...... Interior and exterior aircraft lighting system required for night vision goggle operations;
+...... Two-way radio communications system;
+...... Gyroscopic pitch and bank indicator (artificial horizon);
+...... Generator or alternator of adequate capacity for the required instruments and equipment; and
+...... Radar altimeter.
+[start=1,lowerroman]
+....... *Exclusions.* Paragraphs (f) and (g) of this section do not apply to operations conducted by a holder of a certificate issued under part 121 or part 135 of this chapter.
+
+*Instrument flight rules.* For IFR flight, the following instruments and equipment are required:
+
+*Flight at and above 24,000 feet MSL (FL 240).* If VOR navigation equipment is required under paragraph (d)(2) of this section, no person may operate a U.S.-registered civil aircraft within the 50 states and the District of Columbia at or above FL 240 unless that aircraft is equipped with approved DME or a suitable RNAV system. When the DME or RNAV system required by this paragraph fails at and above FL 240, the pilot in command of the aircraft must notify ATC immediately, and then may continue operations at and above FL 240 to the next airport of intended landing where repairs or replacement of the equipment can be made.
+
+*Category II operations.* The requirements for Category II operations are the instruments and equipment specified in—
+
+*Category III operations.* The instruments and equipment required for Category III operations are specified in paragraph (d) of this section.
+
+*Night vision goggle operations.* For night vision goggle operations, the following instruments and equipment must be installed in the aircraft, functioning in a normal manner, and approved for use by the FAA:
 

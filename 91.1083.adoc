@@ -1,38 +1,40 @@
 # § 91.1083 - Crewmember emergency training.
 
-[loweralpha]
+[start=1,loweralpha]
 . Each training program must provide emergency training under this section for each aircraft type, model, and configuration, each crewmember, and each kind of operation conducted, as appropriate for each crewmember and the program manager.
 . Emergency training must provide the following:
-[arabic]
+[start=1,arabic]
 .. Instruction in emergency assignments and procedures, including coordination among crewmembers.
 .. Individual instruction in the location, function, and operation of emergency equipment including—
-[lowerroman]
+[start=1,lowerroman]
 ... Equipment used in ditching and evacuation;
 ... First aid equipment and its proper use; and
 ... Portable fire extinguishers, with emphasis on the type of extinguisher to be used on different classes of fires.
 .. Instruction in the handling of emergency situations including—
-[lowerroman]
+[start=1,lowerroman]
 ... Rapid decompression;
 ... Fire in flight or on the surface and smoke control procedures with emphasis on electrical equipment and related circuit breakers found in cabin areas;
 ... Ditching and evacuation;
 ... Illness, injury, or other abnormal situations involving passengers or crewmembers; and
 ... Hijacking and other unusual situations.
 .. Review and discussion of previous aircraft accidents and incidents involving actual emergency situations.
-. Each crewmember must perform at least the following emergency drills, using the proper emergency equipment and procedures, unless the Administrator finds that, for a particular drill, the crewmember can be adequately trained by demonstration:
-[arabic]
-.. Ditching, if applicable.
-.. Emergency evacuation.
-.. Fire extinguishing and smoke control.
-.. Operation and use of emergency exits, including deployment and use of evacuation slides, if applicable.
-.. Use of crew and passenger oxygen.
-.. Removal of life rafts from the aircraft, inflation of the life rafts, use of lifelines, and boarding of passengers and crew, if applicable.
-.. Donning and inflation of life vests and the use of other individual flotation devices, if applicable.
-. Crewmembers who serve in operations above 25,000 feet must receive instruction in the following:
-[arabic]
-.. Respiration.
-.. Hypoxia.
-.. Duration of consciousness without supplemental oxygen at altitude.
-.. Gas expansion.
-.. Gas bubble formation.
-.. Physical phenomena and incidents of decompression.
+[start=100,lowerroman]
+... Each crewmember must perform at least the following emergency drills, using the proper emergency equipment and procedures, unless the Administrator finds that, for a particular drill, the crewmember can be adequately trained by demonstration:
+[start=1,arabic]
+.... Ditching, if applicable.
+.... Emergency evacuation.
+.... Fire extinguishing and smoke control.
+.... Operation and use of emergency exits, including deployment and use of evacuation slides, if applicable.
+.... Use of crew and passenger oxygen.
+.... Removal of life rafts from the aircraft, inflation of the life rafts, use of lifelines, and boarding of passengers and crew, if applicable.
+.... Donning and inflation of life vests and the use of other individual flotation devices, if applicable.
+[start=1,arabic]
+.... Respiration.
+.... Hypoxia.
+.... Duration of consciousness without supplemental oxygen at altitude.
+.... Gas expansion.
+.... Gas bubble formation.
+.... Physical phenomena and incidents of decompression.
+
+Crewmembers who serve in operations above 25,000 feet must receive instruction in the following:
 

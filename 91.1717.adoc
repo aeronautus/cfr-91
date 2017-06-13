@@ -1,9 +1,9 @@
 # § 91.1717 - Operating requirements.
 
-[loweralpha]
+[start=1,loweralpha]
 . Except as provided in paragraph (b) of this section, no person may operate a Mitsubishi MU-2B airplane in single pilot operations unless that airplane has a functional autopilot.
 . A person may operate a Mitsubishi MU-2B airplane in single pilot operations without a functional autopilot when—
-[arabic]
+[start=1,arabic]
 .. Operating under day visual flight rule requirements; or
 .. Authorized under a FAA approved minimum equipment list for that airplane, operating under instrument flight rule requirements in daytime visual meteorological conditions.
 . No person may operate a Mitsubishi MU-2B series airplane unless a copy of the appropriate Mitsubishi Heavy Industries MU-2B Airplane Flight Manual is carried on board the airplane and is accessible during each flight at the pilot station.

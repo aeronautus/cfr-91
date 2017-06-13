@@ -1,9 +1,9 @@
 # § 91.1049 - Personnel.
 
-[loweralpha]
+[start=1,loweralpha]
 . Each program manager and each fractional owner must use in program operations on program aircraft flight crews meeting § 91.1053 criteria and qualified under the appropriate regulations. The program manager must provide oversight of those crews.
 . Each program manager must employ (either directly or by contract) an adequate number of pilots per program aircraft. Flight crew staffing must be determined based on the following factors, at a minimum:
-[arabic]
+[start=1,arabic]
 .. Number of program aircraft.
 .. Program manager flight, duty, and rest time considerations, and in all cases within the limits set forth in §§ 91.1057 through 91.1061.
 .. Vacations.

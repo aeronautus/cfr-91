@@ -1,8 +1,8 @@
 # § 91.1065 - Initial and recurrent pilot testing requirements.
 
-[loweralpha]
+[start=1,loweralpha]
 . No program manager or owner may use a pilot, nor may any person serve as a pilot, unless, since the beginning of the 12th month before that service, that pilot has passed either a written or oral test (or a combination), given by the Administrator or an authorized check pilot, on that pilot's knowledge in the following areas—
-[arabic]
+[start=1,arabic]
 .. The appropriate provisions of parts 61 and 91 of this chapter and the management specifications and the operating manual of the program manager;
 .. For each type of aircraft to be flown by the pilot, the aircraft powerplant, major components and systems, major appliances, performance and operating limitations, standard and emergency operating procedures, and the contents of the accepted operating manual or equivalent, as applicable;
 .. For each type of aircraft to be flown by the pilot, the method of determining compliance with weight and balance limitations for takeoff, landing and en route operations;
@@ -10,7 +10,7 @@
 .. Air traffic control procedures, including IFR procedures when applicable;
 .. Meteorology in general, including the principles of frontal systems, icing, fog, thunderstorms, and windshear, and, if appropriate for the operation of the program manager, high altitude weather;
 .. Procedures for—
-[lowerroman]
+[start=1,lowerroman]
 ... Recognizing and avoiding severe weather situations;
 ... Escaping from severe weather situations, in case of inadvertent encounters, including low-altitude windshear (except that rotorcraft aircraft pilots are not required to be tested on escaping from low-altitude windshear); and
 ... Operating in or near thunderstorms (including best penetration altitudes), turbulent air (including clear air turbulence), icing, hail, and other potentially hazardous meteorological conditions; and

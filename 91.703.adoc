@@ -1,8 +1,8 @@
 # § 91.703 - Operations of civil aircraft of U.S. registry outside of the United States.
 
-[loweralpha]
+[start=1,loweralpha]
 . Each person operating a civil aircraft of U.S. registry outside of the United States shall—
-[arabic]
+[start=1,arabic]
 .. When over the high seas, comply with annex 2 (Rules of the Air) to the Convention on International Civil Aviation and with §§ 91.117(c), 91.127, 91.129, and 91.131;
 .. When within a foreign country, comply with the regulations relating to the flight and maneuver of aircraft there in force;
 .. Except for §§ 91.117(a), 91.307(b), 91.309, 91.323, and 91.711, comply with this part so far as it is not inconsistent with applicable regulations of the foreign country where the aircraft is operated or annex 2 of the Convention on International Civil Aviation; and

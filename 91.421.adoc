@@ -1,9 +1,9 @@
 # § 91.421 - Rebuilt engine maintenance records.
 
-[loweralpha]
+[start=1,loweralpha]
 . The owner or operator may use a new maintenance record, without previous operating history, for an aircraft engine rebuilt by the manufacturer or by an agency approved by the manufacturer.
 . Each manufacturer or agency that grants zero time to an engine rebuilt by it shall enter in the new record—
-[arabic]
+[start=1,arabic]
 .. A signed statement of the date the engine was rebuilt;
 .. Each change made as required by airworthiness directives; and
 .. Each change made in compliance with manufacturer's service bulletins, if the entry is specifically requested in that bulletin.

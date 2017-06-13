@@ -1,11 +1,11 @@
 # § 91.1707 - Training program hours.
 
-[loweralpha]
+[start=1,loweralpha]
 . Ground instruction hours are listed in the following table:
 . Flight instruction hours are listed in the following table:
 . Differences training hours are listed in the following table:
 . Definitions of levels of training as used in this subpart:
-[arabic]
+[start=1,arabic]
 .. LEVEL A Training—Training that is conducted through self-instruction by the pilot.
 .. LEVEL B Training—Training that is conducted in the classroom environment with the aid of a qualified instructor who meets the requirements of this subpart.
 .. LEVEL C Training—Training that is accomplished in an FAA-approved Level 5 or 6 flight training device. In addition to the basic FTD requirements, the FTD must be representative of the MU-2B cockpit controls and be specifically approved by the FAA for the MU-2B airplane.

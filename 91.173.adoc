@@ -2,7 +2,7 @@
 
 No person may operate an aircraft in controlled airspace under IFR unless that person has—
 
-[loweralpha]
+[start=1,loweralpha]
 . Filed an IFR flight plan; and
 . Received an appropriate ATC clearance.
 
